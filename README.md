@@ -115,7 +115,7 @@ These instructions guide you through adding the *SteamStream website* as a singl
 
 Want to help make SteamStream even better? Contributions are welcome!
 
-*   **Report Issues:** Found a broken link or a bug? Please open an [issue](https://github.com/ch3gg5/ch3gg5.github.io/issues) on GitHub.
+*   **Report Issues:** Found a broken link or a bug? Please open an [issue](https://github.com/ch3gg5/SteamStream/issues) on GitHub.
 *   **Suggest Services:** Know a popular streaming service that's missing? Add it yourself with a pull request! This website is made in very simple html and css, so It shouldnt be too hard.
 *   **Improve Design:** Have front-end skills? Feel free to fork the repository and submit a pull request with enhancements.
 *   **Spread the Word:** If you find SteamStream useful, share it with others!
